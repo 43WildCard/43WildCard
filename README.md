@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ano;Rizky+Al+Santiano;Developer+%26+Vibe+Coder;Builder+of+Random+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ano;Developer+%26+Vibe+Coder;Builder+of+Random+Stuff" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color:#FFD700;">
@@ -23,7 +23,7 @@
 ```python
 class Ano:
     def __init__(self):
-        self.name = "Rizky Al Santiano"
+        self.name = "itsmeano"
         self.alias = "Ano"
         self.username = "43WildCard"
         self.role = ["Developer", "Vibe Coder", "Builder"]
